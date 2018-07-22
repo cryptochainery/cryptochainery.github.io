@@ -13,12 +13,12 @@ url: "https://cryptochainery.github.io/" # the base hostname & protocol for your
 social:
   name: Your Name
   links:
-    - https://twitter.com/BenBalter
-    - https://www.facebook.com/ben.balter
-    - https://www.linkedin.com/in/BenBalter
-    - https://plus.google.com/+BenBalter
-    - https://github.com/benbalter
-    - https://keybase.io/benbalter
+    #- https://twitter.com/BenBalter
+    #- https://www.facebook.com/ben.balter
+    #- https://www.linkedin.com/in/BenBalter
+    #- https://plus.google.com/+BenBalter
+    #- https://github.com/benbalter
+    #- https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -26,6 +26,9 @@ navigation: # Navigation links
   - {name: 'Tutorials', link: '/blockchain-tutorials'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
+  - {name: 'Bitcoin Price', link: '/bitcoin-price-chart'}
+
+
 
 tagline: >
   Simplifying blockchain technology and daily updates on the blockchain/bitcoin industry.
