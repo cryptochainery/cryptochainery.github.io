@@ -2,10 +2,12 @@
 layout: page
 title: Tutorials
 permalink: /blockchain-tutorials/
-description: Easy to understand blockchain and bitcoin technology tutorials that will teach you how bitcoin, ethereum, and blockchain work and how you can use them in your business.
+description: Simple blockchain and bitcoin technology tutorials to teach you how bitcoin, ethereum, and blockchain work and how you can use them in your business.
 ---
 
-Welcome to the blockchain tutorial home page. Here you'll find in-depth tutorials on blockchain, bitcoin, and ethereum technologies. I've structured the tutorials in simple byte-sized articles. You can read them in any order, but I've listed them in a sequence that makes blockchain easy to understand.
+One of my main goals is to demystify blockchain, bitcoin, ethereum, and other crypto-xyz topics. I've structured the tutorials in simple byte-sized articles. You can read them in any order, but I've listed them in a sequence that makes blockchain easy to understand. 
+
+If you find errors, or have improvements to suggest, please send me an email at cryptochainery_at_gmail.com. Thank you and good luck!
 
 #### **Cryptography basics**
 * What is cryptography?
@@ -37,4 +39,3 @@ Welcome to the blockchain tutorial home page. Here you'll find in-depth tutorial
 * Blockchain and GDPR - Read this first!
 
 
-If you find errors, or have improvements to suggest, please send me an email at cryptochainery_at_gmail.com. Thank you and good luck!
