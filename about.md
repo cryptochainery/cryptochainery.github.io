@@ -4,10 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+### CryptoChainary aims at being a one-stop resource for blockchain and bitcoin technology.
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
+My goal is learn and help people learn about blockchain technology which can truly transform certain aspects of the industry as we know it. I am always on the lookout for new and interesting applications of blockchain technology - so if you want to exchange ideas or simply get it touch, please send me an email or [contact me]({{ site.baseurl }}{% link contact.html %}) and let's get talking. Thank you!
 
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
