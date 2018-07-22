@@ -23,9 +23,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Tutorials', link: '/blockchain-tutorials'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Tutorials', link: '/tutorials'}
 
 tagline: >
   Simplifying blockchain technology and daily updates on the blockchain/bitcoin industry.
