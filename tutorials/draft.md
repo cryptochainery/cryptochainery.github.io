@@ -1,3 +1,10 @@
+---
+layout: tutorial
+title: What is hashing in cryptography?
+permalink: /hashing-cryptography-sha256-bitcoin-blockchain/
+description: Who is the founder/inventor of bitcoin and blockchain technology? Who is Satoshi Nakamoto and what is the mystery surrounding him?
+published : false
+---
 Hashing is one of the fundamental concepts that you should know to understand blockchain, bitcoin, or any cryptocurrency. There are entire fields, organizations, PhD thesis dedicated to hashing, but you don't need to go so deep to understand how hashing is used in blockchain. You need to understand how hashing works conceptually, and how it enforces trust in the system, how it is used for digital signatures, how hashing plays a role in the proof-of-work concept of blockchain. That being said, let's get started. 
 
 Define hashing 
